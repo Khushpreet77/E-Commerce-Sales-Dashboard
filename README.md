@@ -1,89 +1,199 @@
-# 🛒 E-Commerce Sales Dashboard | Power BI
+# 🛍️ Madhav E-Commerce Sales Dashboard | Power BI
 
 ## 📌 Project Overview
 
-This project is an interactive **E-Commerce Sales Dashboard** developed using **Power BI** to analyze sales performance, revenue trends, customer behavior, and business growth. The dashboard provides valuable insights through dynamic visualizations and KPI tracking, enabling data-driven decision-making.
+This project is an interactive **E-Commerce Sales Dashboard** developed using **Power BI** to analyze sales performance, profit trends, customer behavior, product categories, and payment preferences.
+
+The dashboard provides a comprehensive view of business performance through KPIs, interactive visualizations, and filters, helping stakeholders make data-driven decisions and identify growth opportunities.
 
 ---
 
-## 🚀 Features
+# 🎯 Objectives
 
-* Interactive and user-friendly dashboard
-* Sales performance analysis
-* Revenue and profit insights
-* Customer and product trend analysis
-* Dynamic filters and slicers
-* KPI tracking and business reporting
-* Interactive charts and visualizations
-* Business growth monitoring
+* Monitor overall sales and profit performance.
+* Analyze sales distribution across different states.
+* Identify top-performing product categories and sub-categories.
+* Track monthly profit trends.
+* Understand customer purchasing behavior.
+* Evaluate preferred payment methods.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+# 📊 Key Performance Indicators (KPIs)
+
+The dashboard tracks the following metrics:
+
+* Total Profit: **37K**
+* Total Sales Amount: **438K**
+* Total Quantity Sold: **5615**
+* Average Order Value (AOV): **121K**
+
+---
+
+# 📈 Dashboard Insights
+
+## 1️⃣ Sales Performance by State
+
+The dashboard compares sales across multiple states, including:
+
+* Maharashtra
+* Madhya Pradesh
+* Uttar Pradesh
+* Delhi
+
+### Insights
+
+* Maharashtra generated the highest sales revenue.
+* Madhya Pradesh was the second-best performing state.
+* Regional performance comparison helps identify high-revenue markets.
+
+---
+
+## 2️⃣ Profit Analysis by Category
+
+Categories analyzed:
+
+* Clothing
+* Electronics
+* Furniture
+
+### Insights
+
+* Clothing contributed the highest share of profit.
+* Electronics and Furniture also generated significant business revenue.
+* Category-level analysis helps understand product demand.
+
+---
+
+## 3️⃣ Monthly Profit Analysis
+
+The dashboard tracks profit trends from January to December.
+
+### Insights
+
+* Positive profit growth observed during multiple months.
+* Some months experienced negative profitability.
+* Seasonal patterns can be identified for business planning.
+
+---
+
+## 4️⃣ Top Customer Analysis
+
+The dashboard highlights top customers based on purchase value.
+
+### Example Customers
+
+* Harivansh
+* Madhav
+* Madan Mohan
+* Shiva
+
+### Insights
+
+* Helps identify high-value customers.
+* Supports customer retention and loyalty strategies.
+
+---
+
+## 5️⃣ Payment Mode Analysis
+
+Payment methods analyzed:
+
+* Cash on Delivery (COD)
+* UPI
+* Debit Card
+* Credit Card
+* EMI
+
+### Insights
+
+* COD was the most preferred payment method.
+* UPI was the second most used payment option.
+* Payment behavior analysis supports business strategy and customer experience improvements.
+
+---
+
+## 6️⃣ Profit by Sub-Category
+
+Sub-categories analyzed:
+
+* Printers
+* Bookcases
+* Sarees
+* Accessories
+* Tables
+
+### Insights
+
+* Printers generated the highest profit.
+* Bookcases performed strongly among furniture products.
+* Helps identify the most profitable product segments.
+
+---
+
+# 🛠️ Tools & Technologies Used
 
 * Power BI
-* DAX
 * Power Query
+* DAX
 * Data Modeling
-* Microsoft Excel
 * Data Visualization
+* Microsoft Excel
+* Business Intelligence Reporting
+
+---
+
+# ⚙️ Power BI Features Implemented
+
+* KPI Cards
+* Interactive Slicers
+* State Filters
+* Quarter Filters
+* Donut Charts
+* Bar Charts
+* Column Charts
+* Dynamic Filtering
+* Cross-Filtering
+* Business Performance Dashboard
+
+---
+
+# 📚 Skills Demonstrated
+
+* Data Cleaning
+* Data Transformation
+* Data Modeling
+* DAX Calculations
+* Dashboard Design
+* KPI Development
 * Business Analysis
+* Data Visualization
+* Sales Analytics
 
 ---
 
-## 📊 Dashboard Insights
+# 📸 Dashboard Screenshot
 
-The dashboard provides insights into:
-
-* Total sales and revenue performance
-* Product-wise sales analysis
-* Category-wise performance tracking
-* Customer purchasing behavior and trends
-* Monthly and yearly sales comparisons
-* Profitability analysis
-* Business growth tracking through KPIs
+![Madhav E-Commerce Sales Dashboard](dashboard.png)
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+# 🚀 Key Learning Outcomes
 
-* Total Sales
-* Total Revenue
-* Total Profit
-* Order Performance
-* Customer Trends
-* Product Performance
-* Monthly Sales Growth
-* Year-over-Year Comparison
+* Built an end-to-end sales analytics dashboard using Power BI.
+* Created interactive reports for business performance tracking.
+* Developed KPI-driven visualizations for decision-making.
+* Applied data visualization best practices.
+* Improved understanding of sales and customer analytics.
 
 ---
 
-## 🎯 Learning Outcomes
-
-Through this project, I gained hands-on experience in:
-
-* Data cleaning and transformation
-* Building interactive dashboards in Power BI
-* Creating DAX measures and calculations
-* Data modeling and relationship management
-* Business data analysis
-* Data visualization best practices
-* KPI design and reporting
-
----
-
-## 🔗 Live Dashboard
-
-Power BI Report:
-
-https://app.powerbi.com/links/FZCwXEt2ZE?ctid=9fe0223d-dd03-4ace-a959-7e1539e7379e&pbi_source=linkShare&bookmarkGuid=bc3385fd-67c0-4665-b811-9428246309bc
-
----
-
-## 📬 Contact
+## 👤 Author
 
 **Khushpreet**
 
-Aspiring Data Analyst | Power BI | SQL | Python
+Aspiring Data Analyst
+
+Skills: SQL | Python | Power BI | Excel | Data Analytics
 
 GitHub: https://github.com/Khushpreet77
