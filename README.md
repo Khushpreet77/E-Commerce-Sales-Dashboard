@@ -174,7 +174,7 @@ Sub-categories analyzed:
 
 # 📸 Dashboard Screenshot
 
-![Madhav E-Commerce Sales Dashboard](dashboard.png)
+![Madhav E-Commerce Sales Dashboard]([dashboard.png](https://github.com/Khushpreet77/E-Commerce-Sales-Dashboard/blob/a7d01cbf3e4ef17ffa835714d41f319cc57aec03/Dashboard%20Screenshot.png))
 
 ---
 
